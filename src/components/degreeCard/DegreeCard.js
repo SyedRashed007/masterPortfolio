@@ -41,7 +41,7 @@ class DegreeCard extends Component {
                 </h3>
               </div>
             </div>
-            <div classname="body-content">
+            {/* <div classname="body-content">
               {degree.descriptions.map((sentence) => {
                 return (
                   <p className="content-list" style={{ color: theme.text }}>
@@ -63,7 +63,7 @@ class DegreeCard extends Component {
                   </p>
                 </div>
               </a>
-            </div>
+            </div> */}
           </div>
         </Fade>
       </div>
