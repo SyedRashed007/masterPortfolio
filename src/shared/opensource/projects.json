@@ -1,6 +1,42 @@
 {
   "data": [
     {
+      "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
+      "name": "Memories",
+      "createdAt": "2018-11-03T05:00:56Z",
+      "url": "https://github.com/SyedRashed007/social-memories",
+      "description": "CRUD operations using Mongoose and MongoDB, Handling Routes, Used Material-UI for building components, Responsive UI",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
+      "name": "Ecommerce Application",
+      "createdAt": "2018-11-03T05:00:56Z",
+      "url": "https://github.com/SyedRashed007/flipkart-clone",
+      "description": "Created this app in MERN stack. Responsive UI, CRUD operations, Authentication functionality & Product search functionality",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       "name": "PhotoGram",
       "url": "https://github.com/SyedRashed007/photogram",
@@ -18,6 +54,20 @@
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyMDIxNDc4ODA=",
+      "name": "Project Planner",
+      "createdAt": "2019-08-13T13:13:00Z",
+      "url": "https://github.com/SyedRashed007/project_management",
+      "description": "Your notebook for projects, projects can be created with content written in it and all the projects get displayed. A small To-do app is also displayed so as to write down any important task. All the projects are stored in the firebase and todo is stored in the local storage.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
         }
       ]
     },
@@ -76,16 +126,128 @@
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyMDIxNDc4ODA=",
-      "name": "Project Planner",
-      "createdAt": "2019-08-13T13:13:00Z",
-      "url": "https://github.com/SyedRashed007/project_management",
-      "description": "Your notebook for projects, projects can be created with content written in it and all the projects get displayed. A small To-do app is also displayed so as to write down any important task. All the projects are stored in the firebase and todo is stored in the local storage.",
+      "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
+      "name": "Cash Register Manager",
+      "createdAt": "2018-11-03T05:00:56Z",
+      "url": "https://codesandbox.io/s/blue-violet-l7vse?file=/src/App.js",
+      "description": "Created app using React-JS. User can enter the bill amount and cash given by the customer and know minimum number of notes to return.",
       "isFork": false,
       "languages": [
         {
           "name": "Python",
           "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
+      "name": "Book Recommendation",
+      "createdAt": "2018-11-03T05:00:56Z",
+      "url": "https://github.com/SyedRashed007/book-recommend",
+      "description": "This app is made With ReactJs to recommend books to users.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
+      "name": "Emoji-Interpreter",
+      "createdAt": "2018-11-03T05:00:56Z",
+      "url": "https://github.com/SyedRashed007/emoji-interpreter",
+      "description": "This app is made With ReactJs to find the meaning of the emojis",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
+      "name": "Speak like a Dothraki",
+      "createdAt": "2018-11-03T05:00:56Z",
+      "url": "https://github.com/SyedRashed007/dothraki-trasnlate",
+      "description": "Simple App made with HTML5, CSS3 and JavaScript Using FunTranslation Api.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
+      "name": "Banana-Translation-App",
+      "createdAt": "2018-11-03T05:00:56Z",
+      "url": "https://github.com/SyedRashed007/minions-speak",
+      "description": "Simple App made with HTML5, CSS3 and JavaScript Using FunTranslation Api.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
+      "name": "Quiz about Harry Potter",
+      "createdAt": "2018-11-03T05:00:56Z",
+      "url": "https://github.com/SyedRashed007/fandom-quiz",
+      "description": "A CLI app built with nodeJS. A small fun game, you can send this to your friends and find out who is the biggest fan of Harry Potter",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
+      "name": "How well do you know me",
+      "createdAt": "2018-11-03T05:00:56Z",
+      "url": "https://github.com/SyedRashed007/quiz-about-me",
+      "description": "A CLI app built with nodeJS. You can send this to your friends and find out who knows you better.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
         }
       ]
     }
