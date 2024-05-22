@@ -65,7 +65,7 @@ const socialMediaLinks = [
   // },
   {
     name: "Twitter",
-    link: "https://twitter.com/SyedRasheduddin",
+    link: "https://x.com/SyedRasheduddin",
     fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
     backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
   },
@@ -665,12 +665,12 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle: "Hyderabad, Telangana",
+    subtitle: "Columbus, USA",
     avatar_image_path: "address_image.svg",
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+91 9347476927",
+    subtitle: "+1 6149569134",
   },
 };
 
