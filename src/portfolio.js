@@ -670,7 +670,7 @@ const contactPageData = {
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+1 6149569134",
+    subtitle: "+1 614-956-9134",
   },
 };
 
